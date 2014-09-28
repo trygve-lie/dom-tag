@@ -29,8 +29,5 @@
     "mocha": "latest",
     "chai": "latest",
     "jsdoc": "latest"
-  },
-  "dependencies": {
-    "is": "0.1.x"
   }
 }
