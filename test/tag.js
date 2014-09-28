@@ -272,32 +272,6 @@ describe('tag.elements() - "class" attribute', function(){
 
 
 
-describe('tag.elements() - "innerHTML" attribute', function(){
-
-    describe('object with a "innerHTML" property', function(){
-
-        it('should return an element where the value are child nodes of the element', function(){
-            var result  = '<div>foo<b>bar</b>xyz</div>',
-                node    = tag.div({innerHTML:'foo<b>bar</b>xyz'});
-            assert.equal(result, node.outerHTML);
-        });
-
-    });
-
-    describe('object with a "ih" property', function(){
-
-        it('should return an element where the value are child nodes of the element', function(){
-            var result  = '<div>foo<b>bar</b>xyz</div>',
-                node    = tag.div({ih:'foo<b>bar</b>xyz'});
-            assert.equal(result, node.outerHTML);
-        });
-
-    });
-
-});
-
-
-
 describe('tag.elements() - "style" attribute', function(){
 
     describe('object with single attribute', function(){
