@@ -1,5 +1,7 @@
 # dom-tag
 
+[![Dependencies](https://img.shields.io/david/trygve-lie/dom-tag.svg?style=flat-square)](https://david-dm.org/trygve-lie/dom-tag)[![Build Status](http://img.shields.io/travis/trygve-lie/dom-tag/master.svg?style=flat-square)](https://travis-ci.org/trygve-lie/dom-tag)
+
 Templating library. In its purest form dom-tag are just a set of convenience methods
 wrapping basic DOM manipulation making it simpler to do plain DOM construction.
 
