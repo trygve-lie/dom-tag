@@ -1,6 +1,6 @@
 # dom-tag
 
-[![Dependencies](https://img.shields.io/david/trygve-lie/dom-tag.svg?style=flat-square)](https://david-dm.org/trygve-lie/dom-tag)[![Build Status](http://img.shields.io/travis/trygve-lie/dom-tag/master.svg?style=flat-square)](https://travis-ci.org/trygve-lie/dom-tag)
+[![Dependencies](https://img.shields.io/david/trygve-lie/dom-tag.svg?style=flat-square)](https://david-dm.org/trygve-lie/dom-tag)[![Build Status](http://img.shields.io/travis/trygve-lie/dom-tag/master.svg?style=flat-square)](https://travis-ci.org/trygve-lie/dom-tag) [![Greenkeeper badge](https://badges.greenkeeper.io/trygve-lie/dom-tag.svg)](https://greenkeeper.io/)
 
 Templating library. In its purest form dom-tag are just a set of convenience methods
 wrapping basic DOM manipulation making it simpler to do plain DOM construction.
